@@ -1,0 +1,16 @@
+certifi==2025.11.12
+charset-normalizer==3.4.4
+cloc==0.2.5
+colorama==0.4.6
+colored==2.3.1
+idna==3.11
+iniconfig==2.3.0
+mando==0.7.1
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==9.0.2
+radon==6.0.1
+requests==2.32.5
+six==1.17.0
+urllib3==2.6.2
